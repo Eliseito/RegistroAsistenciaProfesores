@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RegistroAsistenciaProfesores</string>
+
+    <string name="et_titulo">CARLOS SALAZAR ROMERO</string>
+    <string name="et_uss">Ingresar Usuario</string>
+    <string name="et_password">Ingresar Contaseña</string>
+    <string name="btn_ingresar">INGRESAR</string>
+
+    <string name="et_1">REGISTRO DE DOCENTES</string>
+    <string name="et_cod">Codigo</string>
+    <string name="et_nom">Nombres</string>
+    <string name="et_ape">Apellidos</string>
+    <string name="et_dni">DNI</string>
+    <string name="et_cel">Celular</string>
+    <string name="et_tipocontrato">Tipo de Contrato</string>
+    <string name="et_direc">Direccion</string>
+    <string name="et_usuario">Ingresar Usuario</string>
+    <string name="et_pass">Ingresar Contraseña</string>
+    <string name="btn_registrar">REGISTRAR</string>
+    <string name="btn_modificar">MODIFICAR</string>
+    <string name="btn_eliminar">ELIMINAR</string>
+    <string name="btn_buscar">BUSCAR</string>
+</resources>
